@@ -1,3 +1,5 @@
+## COMANDOS LINUX
+### Directorios y Archivos
 | Comando | Descripción |
 | ------- | ----------- |
 | ls      | Lista el contenido de un directorio |
@@ -12,4 +14,4 @@
 | chown   | Cambia el propietario de un archivo o directorio |
 | ps      | Muestra los procesos en ejecución |
 | top     | Muestra el consumo de recursos del sistema |
-| ifconfig| Muestra información de red |
+
