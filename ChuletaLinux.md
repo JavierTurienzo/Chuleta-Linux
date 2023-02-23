@@ -14,6 +14,7 @@
 | chmod-R | Cambia los permisos de un archivo o directorio de forma recursiva |
 | chown   | Cambia el propietario de un archivo o directorio |
 | chown-R | Cambia el propietario de un archivo o directorio de forma recursiva |
+| file    | Muestra el tipo de un archivo |
 
 ### Procesos
 | Comando | Descripción |
