@@ -101,6 +101,7 @@
 | find    | Buscar ficheros o directorios |
 | find -name  | Buscar ficheros o directorios por nombre |
 | grep    | Buscar contenidos o archivos por los valores indicados |
+| wc -l   | Cuenta las lineas de un ficehro |
 
 ### Ficheros Importantes
 | Fichero | Contenido |
