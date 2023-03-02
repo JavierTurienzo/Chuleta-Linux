@@ -20,7 +20,7 @@
 | Comando | Descripción |
 | ------- | ----------- |
 | ps      | Muestra los procesos en ejecución |
-| ps -aux -sort -pmem | Muestra los procesos en ejecución ordenados por memoria que utilizan |
+| ps -aux --sort -pmem | Muestra los procesos en ejecución ordenados por memoria que utilizan |
 | pgrep   | Devuelve el PID de un proceso |
 | jobs    | Muestra los procesos en segundo plano |
 | top     | Muestra el consumo de recursos del sistema |
