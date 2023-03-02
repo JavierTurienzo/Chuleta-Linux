@@ -103,6 +103,8 @@
 | find -name  | Buscar ficheros o directorios por nombre |
 | grep    | Buscar contenidos o archivos por los valores indicados |
 | wc -l   | Cuenta las lineas de un ficehro |
+| head -n 25   | Muestra las 25 primeras lineas |
+| tail -n 25   | Muestra las 25 ultimas lineas |
 
 ### Ficheros Importantes
 | Fichero | Contenido |
